@@ -2,7 +2,9 @@
 
 ### Project Overview
 
-Build a SQL database for a university that manages students, courses, professors, and grades.
+> Build a SQL database for a university that manages students, courses, professors, and grades.
+
+<br>
 
 ### Project Technical Requirements
 
@@ -22,7 +24,7 @@ SQL query scripts for:
         
 ![EER Diagram](https://github.com/alejandroMAD/SQL-university-schema/blob/main/model.png "EER Diagram")
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL%20Workbench-8.0.22-%235d87a1">
