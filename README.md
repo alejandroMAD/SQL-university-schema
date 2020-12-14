@@ -1,4 +1,4 @@
-# SQL-university-schema
+# MySQL University Database
 
 <br>
 
